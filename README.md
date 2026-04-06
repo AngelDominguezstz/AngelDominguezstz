@@ -30,13 +30,10 @@
 
 <h2 align="center">📂 Proyectos Destacados</h2>
 
-- 🌱 [**ViveroGestión**](https://github.com/AngelDominguezstz/viverogestion)  
+- 🌱 [**ViveroGestión**](https://github.com/AngelDominguezstz/portfolio-proyectos)  
   Sistema multiplataforma para gestión de viveros (inventario, clientes, ventas).  
 - 💻 [**Twittor**](https://github.com/AngelDominguezstz/twittor)  
   Aplicación estilo Twitter con JS y CSS.  
-- 📦 [**Portfolio-Proyectos**](https://github.com/AngelDominguezstz/portfolio-proyectos)  
-  Repositorio central con mis proyectos Full-Stack y móviles.  
-
 ---
 
 <h2 align="center">📊 Estadísticas</h2>
