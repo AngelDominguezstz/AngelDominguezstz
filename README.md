@@ -9,21 +9,18 @@
   </h3>   
 
 <details align="center"> 
-  <summary>🏆 Trofeos de GitHub</summary>
+ ### 🏆 Trofeos de GitHub
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox"/>
 </p>
-</details>
 
-<details>
-   <summary>📊 Estadísticas de GitHub</summary>
-<div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&theme=radical" width="350" height="250">
   <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical" width="350" height="250" ></a>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical" width="350" height="250">
+</p>
+
 </details> 
 
 ---
