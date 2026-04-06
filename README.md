@@ -1,10 +1,10 @@
 <h2 align="center"> Hola 👋 , soy Luis Ángel Domínguez Santiz <br/></h2> 
 <h3 align="center">Desarrollador Full-Stack & Multiplataforma <br> <br>
-  <a href="https://github.com/angeldominguezstz" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/angeldominguezstz?label=Seguidores%20en%20GitHub&style=for-the-badge">
+  <a href="https://github.com/AngelDominguezstz" target="_blank">
+    <img alt="Seguidores en GitHub" src="https://img.shields.io/github/followers/AngelDominguezstz?label=Seguidores%20en%20GitHub&style=for-the-badge">
   </a> <br> <br>
-  <a href="https://github.com/angeldominguezstz" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=angeldominguezstz&label=Visitas&color=brightgreen&style=flat-square" alt="Visitas en GitHub" />
+  <a href="https://github.com/AngelDominguezstz" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=AngelDominguezstz&label=Visitas&color=brightgreen&style=flat-square" alt="Visitas en GitHub" />
   </a>
   </h3>   
 
@@ -31,6 +31,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+---
+
+<h2 align="center"> 📂 Proyectos Destacados </h2>
+
+- 🌱 [**Portfolio-Proyectos**](https://github.com/AngelDominguezstz/portfolio-proyectos)  
+  Repositorio donde voy subiendo mis proyectos de desarrollo Full-Stack y multiplataforma.  
+  Incluye **ViveroGestión**, un sistema de gestión para viveros con integración web + móvil.  
 
 ---
 
