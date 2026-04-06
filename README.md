@@ -1,7 +1,7 @@
 <h2 align="center"> Hola 👋 , soy Luis Ángel Domínguez Santiz <br/></h2> 
 <h3 align="center">Desarrollador Full-Stack & Multiplataforma <br> <br>
   <a href="https://github.com/angeldominguezstz" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores%20en%20GitHub&style=for-the-badge">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/angeldominguezstz?label=Seguidores%20en%20GitHub&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/angeldominguezstz" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=angeldominguezstz&label=Visitas&color=brightgreen&style=flat-square" alt="Visitas en GitHub" />
