@@ -1,6 +1,6 @@
 <h2 align="center"> Hola 👋 , soy Luis Ángel Domínguez Santiz <br/></h2> 
 <h3 align="center">Desarrollador Full-Stack & Multiplataforma <br> <br>
-  <a href="https://github.com/TU-USUARIO" target="_blank">
+  <a href="https://github.com/angeldominguezstz" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/TU-USUARIO?label=Seguidores%20en%20GitHub&style=for-the-badge">
   </a> <br> <br>
   <a href="https://github.com/angeldominguezstz" target="_blank">
@@ -12,7 +12,7 @@
   <summary>🏆 Trofeos de GitHub</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=TU-USUARIO&theme=gruvbox"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox"/>
   </a>
 </p>
 </details>
@@ -20,9 +20,9 @@
 <details>
    <summary>📊 Estadísticas de GitHub</summary>
 <div align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&count_private=true&theme=radical" width="350" height="250" ></a>
   <br>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical" width="350" height="250" ></a>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical" width="350" height="250" ></a>
 </div>
 </details> 
 
