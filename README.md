@@ -24,14 +24,6 @@
 </div>
 </details>
 
-### 🏆 Trofeos de GitHub
-![Trofeos](https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox)
-
-### 📊 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical)
-
 
 ---
 
