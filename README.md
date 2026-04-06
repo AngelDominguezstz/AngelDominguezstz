@@ -8,21 +8,14 @@
   </a>
   </h3>   
 
-<details align="center"> 
-  <summary>🏆 Trofeos de GitHub</summary>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox"/>
-</p>
-</details>
+### 🏆 Trofeos de GitHub
+![Trofeos](https://github-profile-trophy.vercel.app/?username=angeldominguezstz&theme=gruvbox)
 
-<details>
-   <summary>📊 Estadísticas de GitHub</summary>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&count_private=true&theme=radical" width="350" height="250" >
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical" width="350" height="250" >
-</div>
-</details>
+### 📊 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=angeldominguezstz&show_icons=true&theme=radical)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=angeldominguezstz&layout=compact&theme=radical)
+
 
 
 ---
